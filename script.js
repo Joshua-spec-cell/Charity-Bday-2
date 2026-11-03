@@ -13,7 +13,7 @@
 const BIRTHDAY = { month: 11, day: 14 };
 
 // CHANGE THE MUSIC: put the file in /music and update the path/title here.
-const MUSIC = { src: 'music/birthday-song.mp3', title: 'Birthday Song' };
+const MUSIC = { src: 'music/Christina Perri A Thousand Years Epic Orchestra Cover.mp3', title: 'Birthday Song' };
 
 // ADD / REMOVE PHOTOS: one line per photograph. Put the files in /images.
 // `ratio` only shapes the placeholder tile until a real photo is added.
